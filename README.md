@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jjaco089
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jerry Jacob.
+- 👀 I’m interested in web programming.
+- 🌱 I’m currently learning SQL, Java, HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 How to reach me: jerryjacob@live.com
 
 <!---
 jjaco089/jjaco089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
