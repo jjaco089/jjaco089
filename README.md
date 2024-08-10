@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerry Jacob.
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning SQL, Java, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning SQL, Java, HTML, CSS, JavaScript, and Azure DevOps.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: jerryjacob@live.com
 
